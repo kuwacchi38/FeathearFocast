@@ -22,18 +22,18 @@ api接続でハマる
 
 ## TODO
 
-- - ~~hellow world~~
+- ~~hellow world~~
 
-  - ~~ボタンを押したらラベルが変わる~~
+- ~~ボタンを押したらラベルが変わる~~
 
-  - ~~git登録~~
+- ~~git登録~~
     - [GitHub](https://github.com/kuwacchi38/FeathearFocast/tree/master)
 
-  - README.mdが表示されない
+- README.mdが表示されない
 
-  - ブランチ名の表示
+- ブランチ名の表示
 
-  - 天気予報のapiにリクエストできる
+- 天気予報のapiにリクエストできる
     - [シェルで天気予報表示](https://qiita.com/stc1988/items/70e27508e2febc20571d)
 
       ```bash
