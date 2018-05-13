@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeathearForcast Java</string>
+    <string name="change_button">Change</string>
+</resources>
